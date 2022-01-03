@@ -1,3 +1,4 @@
+/*mysql tasks*/
 create database market;
 use market;
 create table Smanager(
